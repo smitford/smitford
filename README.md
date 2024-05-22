@@ -24,7 +24,7 @@ I need to develop professionally in parallel with my ideas about the world. Andr
 <h3 align="left">My stack:</h3>
 
 - Clean Architecture, SOLID, DRY
-- Android SDK, MVVM, MVI, MVP, MVC, REST API, Retrofit, ROOM, Dagger 2, Koin, Coroutines, Jetpack Compose, Jetpack Navigation Component, Git, Github Actions, Gradle, CI/CD
+- Android SDK, MVVM, MVI, MVP, MVC, REST API, Retrofit, ROOM, Dagger 2, Koin, Coroutines, Jetpack Compose, Jetpack Navigation Component, Git, Github Actions, Gradle, CI/CD, SQLite
 - Instruments: Android Studio, IntelliJ IDEA, GitHub, Google Play Console, Figma
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smitford&show_icons=true&locale=en&layout=compact" alt="smitford" /></p>
