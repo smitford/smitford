@@ -3,7 +3,7 @@
 
 <h3 align="left">About</h3>
 
-I need to develop professionally in parallel with my ideas about the world. Android development provides such opportunities. This is a flexible and dynamically developing field that requires the programmer to comply with trends, both professional, in terms of technology, and social, expressed in understanding human perception of the world around us. An area in which the developer’s concern for the consumer is visible. My previous field of activity did not provide such a scope of opportunities, so I decided to do what was close to me during my school years.
+I need to develop professionally in parallel with my ideas about the world. Android development provides such opportunities. This is a flexible and dynamically developing field that requires the programmer to comply with trends, both professional, in terms of technology, and social, expressed in understanding human perception of the world around us. An area in which the developer’s concern for the consumer is visible. My previous field of activity did not provide such a scope of opportunities, so I decided to do what was close to me during my uuniversity years.
 
 - 🔭 I’m currently working on [Brain Trainer app](https://github.com/smitford/BrainTrainer)
 
